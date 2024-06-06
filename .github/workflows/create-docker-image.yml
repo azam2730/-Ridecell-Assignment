@@ -35,4 +35,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: azam730s/guestbook-go:latest
+          tags: azam730s/guestbook-go:v-0606
